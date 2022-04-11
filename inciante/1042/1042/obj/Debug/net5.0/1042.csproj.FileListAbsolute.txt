@@ -1,0 +1,16 @@
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\inciante\1042\1042\bin\Debug\net5.0\1042.exe
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\inciante\1042\1042\bin\Debug\net5.0\1042.deps.json
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\inciante\1042\1042\bin\Debug\net5.0\1042.runtimeconfig.json
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\inciante\1042\1042\bin\Debug\net5.0\1042.runtimeconfig.dev.json
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\inciante\1042\1042\bin\Debug\net5.0\1042.dll
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\inciante\1042\1042\bin\Debug\net5.0\1042.pdb
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\inciante\1042\1042\obj\Debug\net5.0\1042.csproj.AssemblyReference.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\inciante\1042\1042\obj\Debug\net5.0\1042.GeneratedMSBuildEditorConfig.editorconfig
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\inciante\1042\1042\obj\Debug\net5.0\1042.AssemblyInfoInputs.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\inciante\1042\1042\obj\Debug\net5.0\1042.AssemblyInfo.cs
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\inciante\1042\1042\obj\Debug\net5.0\1042.csproj.CoreCompileInputs.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\inciante\1042\1042\obj\Debug\net5.0\1042.dll
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\inciante\1042\1042\obj\Debug\net5.0\refint\1042.dll
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\inciante\1042\1042\obj\Debug\net5.0\1042.pdb
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\inciante\1042\1042\obj\Debug\net5.0\1042.genruntimeconfig.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\inciante\1042\1042\obj\Debug\net5.0\ref\1042.dll

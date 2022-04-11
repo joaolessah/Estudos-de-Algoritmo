@@ -1,0 +1,17 @@
+using System;
+using System.Globalization;
+namespace _nome {
+
+    internal class Program{
+        static void Main (string[]args){
+
+
+
+
+
+
+
+        }
+    }
+
+}

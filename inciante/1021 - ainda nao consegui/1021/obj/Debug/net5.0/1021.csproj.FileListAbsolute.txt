@@ -1,0 +1,16 @@
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\secao3-estrutura-sequencial\1021\1021\bin\Debug\net5.0\1021.exe
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\secao3-estrutura-sequencial\1021\1021\bin\Debug\net5.0\1021.deps.json
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\secao3-estrutura-sequencial\1021\1021\bin\Debug\net5.0\1021.runtimeconfig.json
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\secao3-estrutura-sequencial\1021\1021\bin\Debug\net5.0\1021.runtimeconfig.dev.json
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\secao3-estrutura-sequencial\1021\1021\bin\Debug\net5.0\1021.dll
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\secao3-estrutura-sequencial\1021\1021\bin\Debug\net5.0\1021.pdb
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\secao3-estrutura-sequencial\1021\1021\obj\Debug\net5.0\1021.csproj.AssemblyReference.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\secao3-estrutura-sequencial\1021\1021\obj\Debug\net5.0\1021.GeneratedMSBuildEditorConfig.editorconfig
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\secao3-estrutura-sequencial\1021\1021\obj\Debug\net5.0\1021.AssemblyInfoInputs.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\secao3-estrutura-sequencial\1021\1021\obj\Debug\net5.0\1021.AssemblyInfo.cs
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\secao3-estrutura-sequencial\1021\1021\obj\Debug\net5.0\1021.csproj.CoreCompileInputs.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\secao3-estrutura-sequencial\1021\1021\obj\Debug\net5.0\1021.dll
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\secao3-estrutura-sequencial\1021\1021\obj\Debug\net5.0\refint\1021.dll
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\secao3-estrutura-sequencial\1021\1021\obj\Debug\net5.0\1021.pdb
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\secao3-estrutura-sequencial\1021\1021\obj\Debug\net5.0\1021.genruntimeconfig.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\secao3-estrutura-sequencial\1021\1021\obj\Debug\net5.0\ref\1021.dll

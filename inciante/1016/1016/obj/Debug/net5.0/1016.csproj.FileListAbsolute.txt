@@ -1,0 +1,16 @@
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1016\1016\bin\Debug\net5.0\1016.exe
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1016\1016\bin\Debug\net5.0\1016.deps.json
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1016\1016\bin\Debug\net5.0\1016.runtimeconfig.json
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1016\1016\bin\Debug\net5.0\1016.runtimeconfig.dev.json
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1016\1016\bin\Debug\net5.0\1016.dll
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1016\1016\bin\Debug\net5.0\1016.pdb
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1016\1016\obj\Debug\net5.0\1016.csproj.AssemblyReference.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1016\1016\obj\Debug\net5.0\1016.GeneratedMSBuildEditorConfig.editorconfig
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1016\1016\obj\Debug\net5.0\1016.AssemblyInfoInputs.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1016\1016\obj\Debug\net5.0\1016.AssemblyInfo.cs
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1016\1016\obj\Debug\net5.0\1016.csproj.CoreCompileInputs.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1016\1016\obj\Debug\net5.0\1016.dll
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1016\1016\obj\Debug\net5.0\refint\1016.dll
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1016\1016\obj\Debug\net5.0\1016.pdb
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1016\1016\obj\Debug\net5.0\1016.genruntimeconfig.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1016\1016\obj\Debug\net5.0\ref\1016.dll

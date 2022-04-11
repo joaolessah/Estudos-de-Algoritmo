@@ -1,0 +1,16 @@
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao3-estrutura-sequencial\exercicios-propostos-URI\1002\1002\bin\Debug\net5.0\1002.exe
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao3-estrutura-sequencial\exercicios-propostos-URI\1002\1002\bin\Debug\net5.0\1002.deps.json
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao3-estrutura-sequencial\exercicios-propostos-URI\1002\1002\bin\Debug\net5.0\1002.runtimeconfig.json
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao3-estrutura-sequencial\exercicios-propostos-URI\1002\1002\bin\Debug\net5.0\1002.runtimeconfig.dev.json
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao3-estrutura-sequencial\exercicios-propostos-URI\1002\1002\bin\Debug\net5.0\1002.dll
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao3-estrutura-sequencial\exercicios-propostos-URI\1002\1002\bin\Debug\net5.0\1002.pdb
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao3-estrutura-sequencial\exercicios-propostos-URI\1002\1002\obj\Debug\net5.0\1002.csproj.AssemblyReference.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao3-estrutura-sequencial\exercicios-propostos-URI\1002\1002\obj\Debug\net5.0\1002.GeneratedMSBuildEditorConfig.editorconfig
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao3-estrutura-sequencial\exercicios-propostos-URI\1002\1002\obj\Debug\net5.0\1002.AssemblyInfoInputs.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao3-estrutura-sequencial\exercicios-propostos-URI\1002\1002\obj\Debug\net5.0\1002.AssemblyInfo.cs
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao3-estrutura-sequencial\exercicios-propostos-URI\1002\1002\obj\Debug\net5.0\1002.csproj.CoreCompileInputs.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao3-estrutura-sequencial\exercicios-propostos-URI\1002\1002\obj\Debug\net5.0\1002.dll
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao3-estrutura-sequencial\exercicios-propostos-URI\1002\1002\obj\Debug\net5.0\refint\1002.dll
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao3-estrutura-sequencial\exercicios-propostos-URI\1002\1002\obj\Debug\net5.0\1002.pdb
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao3-estrutura-sequencial\exercicios-propostos-URI\1002\1002\obj\Debug\net5.0\1002.genruntimeconfig.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao3-estrutura-sequencial\exercicios-propostos-URI\1002\1002\obj\Debug\net5.0\ref\1002.dll

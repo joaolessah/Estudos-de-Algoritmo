@@ -1,0 +1,16 @@
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1014\1014\bin\Debug\net5.0\1014.exe
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1014\1014\bin\Debug\net5.0\1014.deps.json
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1014\1014\bin\Debug\net5.0\1014.runtimeconfig.json
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1014\1014\bin\Debug\net5.0\1014.runtimeconfig.dev.json
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1014\1014\bin\Debug\net5.0\1014.dll
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1014\1014\bin\Debug\net5.0\1014.pdb
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1014\1014\obj\Debug\net5.0\1014.csproj.AssemblyReference.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1014\1014\obj\Debug\net5.0\1014.GeneratedMSBuildEditorConfig.editorconfig
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1014\1014\obj\Debug\net5.0\1014.AssemblyInfoInputs.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1014\1014\obj\Debug\net5.0\1014.AssemblyInfo.cs
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1014\1014\obj\Debug\net5.0\1014.csproj.CoreCompileInputs.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1014\1014\obj\Debug\net5.0\1014.dll
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1014\1014\obj\Debug\net5.0\refint\1014.dll
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1014\1014\obj\Debug\net5.0\1014.pdb
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1014\1014\obj\Debug\net5.0\1014.genruntimeconfig.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios\secao3-estrutura-sequencial\1014\1014\obj\Debug\net5.0\ref\1014.dll
