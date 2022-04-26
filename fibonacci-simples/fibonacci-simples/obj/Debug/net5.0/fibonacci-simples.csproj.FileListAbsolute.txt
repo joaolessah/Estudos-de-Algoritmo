@@ -1,0 +1,16 @@
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\fibonacci-simples\fibonacci-simples\bin\Debug\net5.0\fibonacci-simples.exe
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\fibonacci-simples\fibonacci-simples\bin\Debug\net5.0\fibonacci-simples.deps.json
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\fibonacci-simples\fibonacci-simples\bin\Debug\net5.0\fibonacci-simples.runtimeconfig.json
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\fibonacci-simples\fibonacci-simples\bin\Debug\net5.0\fibonacci-simples.runtimeconfig.dev.json
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\fibonacci-simples\fibonacci-simples\bin\Debug\net5.0\fibonacci-simples.dll
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\fibonacci-simples\fibonacci-simples\bin\Debug\net5.0\fibonacci-simples.pdb
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\fibonacci-simples\fibonacci-simples\obj\Debug\net5.0\fibonacci-simples.csproj.AssemblyReference.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\fibonacci-simples\fibonacci-simples\obj\Debug\net5.0\fibonacci-simples.GeneratedMSBuildEditorConfig.editorconfig
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\fibonacci-simples\fibonacci-simples\obj\Debug\net5.0\fibonacci-simples.AssemblyInfoInputs.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\fibonacci-simples\fibonacci-simples\obj\Debug\net5.0\fibonacci-simples.AssemblyInfo.cs
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\fibonacci-simples\fibonacci-simples\obj\Debug\net5.0\fibonacci-simples.csproj.CoreCompileInputs.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\fibonacci-simples\fibonacci-simples\obj\Debug\net5.0\fibonacci-simples.dll
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\fibonacci-simples\fibonacci-simples\obj\Debug\net5.0\refint\fibonacci-simples.dll
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\fibonacci-simples\fibonacci-simples\obj\Debug\net5.0\fibonacci-simples.pdb
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\fibonacci-simples\fibonacci-simples\obj\Debug\net5.0\fibonacci-simples.genruntimeconfig.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\fibonacci-simples\fibonacci-simples\obj\Debug\net5.0\ref\fibonacci-simples.dll
