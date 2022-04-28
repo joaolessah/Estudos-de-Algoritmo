@@ -1,0 +1,16 @@
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao6-vetores\exercicios-resolvidos\exercicios-propostos-vetor\9\9\bin\Debug\net5.0\9.exe
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao6-vetores\exercicios-resolvidos\exercicios-propostos-vetor\9\9\bin\Debug\net5.0\9.deps.json
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao6-vetores\exercicios-resolvidos\exercicios-propostos-vetor\9\9\bin\Debug\net5.0\9.runtimeconfig.json
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao6-vetores\exercicios-resolvidos\exercicios-propostos-vetor\9\9\bin\Debug\net5.0\9.runtimeconfig.dev.json
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao6-vetores\exercicios-resolvidos\exercicios-propostos-vetor\9\9\bin\Debug\net5.0\9.dll
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao6-vetores\exercicios-resolvidos\exercicios-propostos-vetor\9\9\bin\Debug\net5.0\9.pdb
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao6-vetores\exercicios-resolvidos\exercicios-propostos-vetor\9\9\obj\Debug\net5.0\9.csproj.AssemblyReference.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao6-vetores\exercicios-resolvidos\exercicios-propostos-vetor\9\9\obj\Debug\net5.0\9.GeneratedMSBuildEditorConfig.editorconfig
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao6-vetores\exercicios-resolvidos\exercicios-propostos-vetor\9\9\obj\Debug\net5.0\9.AssemblyInfoInputs.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao6-vetores\exercicios-resolvidos\exercicios-propostos-vetor\9\9\obj\Debug\net5.0\9.AssemblyInfo.cs
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao6-vetores\exercicios-resolvidos\exercicios-propostos-vetor\9\9\obj\Debug\net5.0\9.csproj.CoreCompileInputs.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao6-vetores\exercicios-resolvidos\exercicios-propostos-vetor\9\9\obj\Debug\net5.0\9.dll
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao6-vetores\exercicios-resolvidos\exercicios-propostos-vetor\9\9\obj\Debug\net5.0\refint\9.dll
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao6-vetores\exercicios-resolvidos\exercicios-propostos-vetor\9\9\obj\Debug\net5.0\9.pdb
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao6-vetores\exercicios-resolvidos\exercicios-propostos-vetor\9\9\obj\Debug\net5.0\9.genruntimeconfig.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao6-vetores\exercicios-resolvidos\exercicios-propostos-vetor\9\9\obj\Debug\net5.0\ref\9.dll
