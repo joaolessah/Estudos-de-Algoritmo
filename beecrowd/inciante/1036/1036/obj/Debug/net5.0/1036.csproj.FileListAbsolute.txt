@@ -1,0 +1,16 @@
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\algoritmos-c-sharp\beecrowd\inciante\1036\1036\bin\Debug\net5.0\1036.exe
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\algoritmos-c-sharp\beecrowd\inciante\1036\1036\bin\Debug\net5.0\1036.deps.json
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\algoritmos-c-sharp\beecrowd\inciante\1036\1036\bin\Debug\net5.0\1036.runtimeconfig.json
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\algoritmos-c-sharp\beecrowd\inciante\1036\1036\bin\Debug\net5.0\1036.runtimeconfig.dev.json
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\algoritmos-c-sharp\beecrowd\inciante\1036\1036\bin\Debug\net5.0\1036.dll
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\algoritmos-c-sharp\beecrowd\inciante\1036\1036\bin\Debug\net5.0\1036.pdb
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\algoritmos-c-sharp\beecrowd\inciante\1036\1036\obj\Debug\net5.0\1036.csproj.AssemblyReference.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\algoritmos-c-sharp\beecrowd\inciante\1036\1036\obj\Debug\net5.0\1036.GeneratedMSBuildEditorConfig.editorconfig
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\algoritmos-c-sharp\beecrowd\inciante\1036\1036\obj\Debug\net5.0\1036.AssemblyInfoInputs.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\algoritmos-c-sharp\beecrowd\inciante\1036\1036\obj\Debug\net5.0\1036.AssemblyInfo.cs
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\algoritmos-c-sharp\beecrowd\inciante\1036\1036\obj\Debug\net5.0\1036.csproj.CoreCompileInputs.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\algoritmos-c-sharp\beecrowd\inciante\1036\1036\obj\Debug\net5.0\1036.dll
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\algoritmos-c-sharp\beecrowd\inciante\1036\1036\obj\Debug\net5.0\refint\1036.dll
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\algoritmos-c-sharp\beecrowd\inciante\1036\1036\obj\Debug\net5.0\1036.pdb
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\algoritmos-c-sharp\beecrowd\inciante\1036\1036\obj\Debug\net5.0\1036.genruntimeconfig.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\algoritmos-exercicios-beecrowd\algoritmos-c-sharp\beecrowd\inciante\1036\1036\obj\Debug\net5.0\ref\1036.dll
