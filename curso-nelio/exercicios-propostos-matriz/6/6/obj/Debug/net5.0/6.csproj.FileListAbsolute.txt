@@ -1,0 +1,16 @@
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao7-matriz\6\6\bin\Debug\net5.0\6.exe
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao7-matriz\6\6\bin\Debug\net5.0\6.deps.json
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao7-matriz\6\6\bin\Debug\net5.0\6.runtimeconfig.json
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao7-matriz\6\6\bin\Debug\net5.0\6.runtimeconfig.dev.json
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao7-matriz\6\6\bin\Debug\net5.0\6.dll
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao7-matriz\6\6\bin\Debug\net5.0\6.pdb
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao7-matriz\6\6\obj\Debug\net5.0\6.csproj.AssemblyReference.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao7-matriz\6\6\obj\Debug\net5.0\6.GeneratedMSBuildEditorConfig.editorconfig
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao7-matriz\6\6\obj\Debug\net5.0\6.AssemblyInfoInputs.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao7-matriz\6\6\obj\Debug\net5.0\6.AssemblyInfo.cs
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao7-matriz\6\6\obj\Debug\net5.0\6.csproj.CoreCompileInputs.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao7-matriz\6\6\obj\Debug\net5.0\6.dll
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao7-matriz\6\6\obj\Debug\net5.0\refint\6.dll
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao7-matriz\6\6\obj\Debug\net5.0\6.pdb
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao7-matriz\6\6\obj\Debug\net5.0\6.genruntimeconfig.cache
+E:\programacao-backup\cs-primeiros-passos-logica-de-prg\secao7-matriz\6\6\obj\Debug\net5.0\ref\6.dll
