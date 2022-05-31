@@ -21,7 +21,7 @@ namespace _1036
             
             if (delta < 0 || A == 0)
             {
-                Console.WriteLine("Impossivel Calcular");
+                Console.WriteLine("Impossivel calcular");
             }
             else
             {
