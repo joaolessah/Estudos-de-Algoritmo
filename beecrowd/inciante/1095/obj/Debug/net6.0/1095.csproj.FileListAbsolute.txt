@@ -1,0 +1,15 @@
+C:\Users\Joao\Desktop\probleminhas\1095\bin\Debug\net6.0\1095.exe
+C:\Users\Joao\Desktop\probleminhas\1095\bin\Debug\net6.0\1095.deps.json
+C:\Users\Joao\Desktop\probleminhas\1095\bin\Debug\net6.0\1095.runtimeconfig.json
+C:\Users\Joao\Desktop\probleminhas\1095\bin\Debug\net6.0\1095.dll
+C:\Users\Joao\Desktop\probleminhas\1095\bin\Debug\net6.0\1095.pdb
+C:\Users\Joao\Desktop\probleminhas\1095\obj\Debug\net6.0\1095.csproj.AssemblyReference.cache
+C:\Users\Joao\Desktop\probleminhas\1095\obj\Debug\net6.0\1095.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joao\Desktop\probleminhas\1095\obj\Debug\net6.0\1095.AssemblyInfoInputs.cache
+C:\Users\Joao\Desktop\probleminhas\1095\obj\Debug\net6.0\1095.AssemblyInfo.cs
+C:\Users\Joao\Desktop\probleminhas\1095\obj\Debug\net6.0\1095.csproj.CoreCompileInputs.cache
+C:\Users\Joao\Desktop\probleminhas\1095\obj\Debug\net6.0\1095.dll
+C:\Users\Joao\Desktop\probleminhas\1095\obj\Debug\net6.0\refint\1095.dll
+C:\Users\Joao\Desktop\probleminhas\1095\obj\Debug\net6.0\1095.pdb
+C:\Users\Joao\Desktop\probleminhas\1095\obj\Debug\net6.0\1095.genruntimeconfig.cache
+C:\Users\Joao\Desktop\probleminhas\1095\obj\Debug\net6.0\ref\1095.dll
