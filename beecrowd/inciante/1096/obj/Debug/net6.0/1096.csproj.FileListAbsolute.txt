@@ -1,0 +1,15 @@
+E:\programacao-backup\repositorios-github\Estudos-de-Algoritmo\beecrowd\inciante\1096\bin\Debug\net6.0\1096.exe
+E:\programacao-backup\repositorios-github\Estudos-de-Algoritmo\beecrowd\inciante\1096\bin\Debug\net6.0\1096.deps.json
+E:\programacao-backup\repositorios-github\Estudos-de-Algoritmo\beecrowd\inciante\1096\bin\Debug\net6.0\1096.runtimeconfig.json
+E:\programacao-backup\repositorios-github\Estudos-de-Algoritmo\beecrowd\inciante\1096\bin\Debug\net6.0\1096.dll
+E:\programacao-backup\repositorios-github\Estudos-de-Algoritmo\beecrowd\inciante\1096\bin\Debug\net6.0\1096.pdb
+E:\programacao-backup\repositorios-github\Estudos-de-Algoritmo\beecrowd\inciante\1096\obj\Debug\net6.0\1096.csproj.AssemblyReference.cache
+E:\programacao-backup\repositorios-github\Estudos-de-Algoritmo\beecrowd\inciante\1096\obj\Debug\net6.0\1096.GeneratedMSBuildEditorConfig.editorconfig
+E:\programacao-backup\repositorios-github\Estudos-de-Algoritmo\beecrowd\inciante\1096\obj\Debug\net6.0\1096.AssemblyInfoInputs.cache
+E:\programacao-backup\repositorios-github\Estudos-de-Algoritmo\beecrowd\inciante\1096\obj\Debug\net6.0\1096.AssemblyInfo.cs
+E:\programacao-backup\repositorios-github\Estudos-de-Algoritmo\beecrowd\inciante\1096\obj\Debug\net6.0\1096.csproj.CoreCompileInputs.cache
+E:\programacao-backup\repositorios-github\Estudos-de-Algoritmo\beecrowd\inciante\1096\obj\Debug\net6.0\1096.dll
+E:\programacao-backup\repositorios-github\Estudos-de-Algoritmo\beecrowd\inciante\1096\obj\Debug\net6.0\refint\1096.dll
+E:\programacao-backup\repositorios-github\Estudos-de-Algoritmo\beecrowd\inciante\1096\obj\Debug\net6.0\1096.pdb
+E:\programacao-backup\repositorios-github\Estudos-de-Algoritmo\beecrowd\inciante\1096\obj\Debug\net6.0\1096.genruntimeconfig.cache
+E:\programacao-backup\repositorios-github\Estudos-de-Algoritmo\beecrowd\inciante\1096\obj\Debug\net6.0\ref\1096.dll
