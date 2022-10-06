@@ -1,0 +1,15 @@
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\QueueStack\bin\Debug\net6.0\QueueStack.exe
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\QueueStack\bin\Debug\net6.0\QueueStack.deps.json
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\QueueStack\bin\Debug\net6.0\QueueStack.runtimeconfig.json
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\QueueStack\bin\Debug\net6.0\QueueStack.dll
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\QueueStack\bin\Debug\net6.0\QueueStack.pdb
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\QueueStack\obj\Debug\net6.0\QueueStack.csproj.AssemblyReference.cache
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\QueueStack\obj\Debug\net6.0\QueueStack.GeneratedMSBuildEditorConfig.editorconfig
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\QueueStack\obj\Debug\net6.0\QueueStack.AssemblyInfoInputs.cache
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\QueueStack\obj\Debug\net6.0\QueueStack.AssemblyInfo.cs
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\QueueStack\obj\Debug\net6.0\QueueStack.csproj.CoreCompileInputs.cache
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\QueueStack\obj\Debug\net6.0\QueueStack.dll
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\QueueStack\obj\Debug\net6.0\refint\QueueStack.dll
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\QueueStack\obj\Debug\net6.0\QueueStack.pdb
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\QueueStack\obj\Debug\net6.0\QueueStack.genruntimeconfig.cache
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\QueueStack\obj\Debug\net6.0\ref\QueueStack.dll

@@ -1,0 +1,15 @@
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\PrincipaisColecoes\ExerciciosFix\Ex1\Ex6\bin\Debug\net6.0\Ex6.exe
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\PrincipaisColecoes\ExerciciosFix\Ex1\Ex6\bin\Debug\net6.0\Ex6.deps.json
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\PrincipaisColecoes\ExerciciosFix\Ex1\Ex6\bin\Debug\net6.0\Ex6.runtimeconfig.json
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\PrincipaisColecoes\ExerciciosFix\Ex1\Ex6\bin\Debug\net6.0\Ex6.dll
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\PrincipaisColecoes\ExerciciosFix\Ex1\Ex6\bin\Debug\net6.0\Ex6.pdb
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\PrincipaisColecoes\ExerciciosFix\Ex1\Ex6\obj\Debug\net6.0\Ex6.csproj.AssemblyReference.cache
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\PrincipaisColecoes\ExerciciosFix\Ex1\Ex6\obj\Debug\net6.0\Ex6.GeneratedMSBuildEditorConfig.editorconfig
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\PrincipaisColecoes\ExerciciosFix\Ex1\Ex6\obj\Debug\net6.0\Ex6.AssemblyInfoInputs.cache
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\PrincipaisColecoes\ExerciciosFix\Ex1\Ex6\obj\Debug\net6.0\Ex6.AssemblyInfo.cs
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\PrincipaisColecoes\ExerciciosFix\Ex1\Ex6\obj\Debug\net6.0\Ex6.csproj.CoreCompileInputs.cache
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\PrincipaisColecoes\ExerciciosFix\Ex1\Ex6\obj\Debug\net6.0\Ex6.dll
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\PrincipaisColecoes\ExerciciosFix\Ex1\Ex6\obj\Debug\net6.0\refint\Ex6.dll
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\PrincipaisColecoes\ExerciciosFix\Ex1\Ex6\obj\Debug\net6.0\Ex6.pdb
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\PrincipaisColecoes\ExerciciosFix\Ex1\Ex6\obj\Debug\net6.0\Ex6.genruntimeconfig.cache
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\PrincipaisColecoes\ExerciciosFix\Ex1\Ex6\obj\Debug\net6.0\ref\Ex6.dll

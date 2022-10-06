@@ -1,0 +1,15 @@
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\ExercicioResolvido3\bin\Debug\net6.0\ExercicioResolvido3.exe
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\ExercicioResolvido3\bin\Debug\net6.0\ExercicioResolvido3.deps.json
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\ExercicioResolvido3\bin\Debug\net6.0\ExercicioResolvido3.runtimeconfig.json
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\ExercicioResolvido3\bin\Debug\net6.0\ExercicioResolvido3.dll
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\ExercicioResolvido3\bin\Debug\net6.0\ExercicioResolvido3.pdb
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\ExercicioResolvido3\obj\Debug\net6.0\ExercicioResolvido3.csproj.AssemblyReference.cache
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\ExercicioResolvido3\obj\Debug\net6.0\ExercicioResolvido3.GeneratedMSBuildEditorConfig.editorconfig
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\ExercicioResolvido3\obj\Debug\net6.0\ExercicioResolvido3.AssemblyInfoInputs.cache
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\ExercicioResolvido3\obj\Debug\net6.0\ExercicioResolvido3.AssemblyInfo.cs
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\ExercicioResolvido3\obj\Debug\net6.0\ExercicioResolvido3.csproj.CoreCompileInputs.cache
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\ExercicioResolvido3\obj\Debug\net6.0\ExercicioResolvido3.dll
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\ExercicioResolvido3\obj\Debug\net6.0\refint\ExercicioResolvido3.dll
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\ExercicioResolvido3\obj\Debug\net6.0\ExercicioResolvido3.pdb
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\ExercicioResolvido3\obj\Debug\net6.0\ExercicioResolvido3.genruntimeconfig.cache
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\QueueStack\ExercicioResolvido3\obj\Debug\net6.0\ref\ExercicioResolvido3.dll

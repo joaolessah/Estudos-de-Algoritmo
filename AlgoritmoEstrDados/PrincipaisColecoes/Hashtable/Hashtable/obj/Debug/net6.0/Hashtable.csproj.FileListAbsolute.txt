@@ -1,0 +1,15 @@
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\Hashtable\Hashtable\bin\Debug\net6.0\Hashtable.exe
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\Hashtable\Hashtable\bin\Debug\net6.0\Hashtable.deps.json
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\Hashtable\Hashtable\bin\Debug\net6.0\Hashtable.runtimeconfig.json
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\Hashtable\Hashtable\bin\Debug\net6.0\Hashtable.dll
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\Hashtable\Hashtable\bin\Debug\net6.0\Hashtable.pdb
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\Hashtable\Hashtable\obj\Debug\net6.0\Hashtable.csproj.AssemblyReference.cache
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\Hashtable\Hashtable\obj\Debug\net6.0\Hashtable.GeneratedMSBuildEditorConfig.editorconfig
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\Hashtable\Hashtable\obj\Debug\net6.0\Hashtable.AssemblyInfoInputs.cache
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\Hashtable\Hashtable\obj\Debug\net6.0\Hashtable.AssemblyInfo.cs
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\Hashtable\Hashtable\obj\Debug\net6.0\Hashtable.csproj.CoreCompileInputs.cache
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\Hashtable\Hashtable\obj\Debug\net6.0\Hashtable.dll
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\Hashtable\Hashtable\obj\Debug\net6.0\refint\Hashtable.dll
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\Hashtable\Hashtable\obj\Debug\net6.0\Hashtable.pdb
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\Hashtable\Hashtable\obj\Debug\net6.0\Hashtable.genruntimeconfig.cache
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\Hashtable\Hashtable\obj\Debug\net6.0\ref\Hashtable.dll

@@ -1,0 +1,15 @@
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ExercicioArrayList\bin\Debug\net6.0\ExercicioArrayList.exe
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ExercicioArrayList\bin\Debug\net6.0\ExercicioArrayList.deps.json
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ExercicioArrayList\bin\Debug\net6.0\ExercicioArrayList.runtimeconfig.json
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ExercicioArrayList\bin\Debug\net6.0\ExercicioArrayList.dll
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ExercicioArrayList\bin\Debug\net6.0\ExercicioArrayList.pdb
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ExercicioArrayList\obj\Debug\net6.0\ExercicioArrayList.csproj.AssemblyReference.cache
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ExercicioArrayList\obj\Debug\net6.0\ExercicioArrayList.GeneratedMSBuildEditorConfig.editorconfig
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ExercicioArrayList\obj\Debug\net6.0\ExercicioArrayList.AssemblyInfoInputs.cache
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ExercicioArrayList\obj\Debug\net6.0\ExercicioArrayList.AssemblyInfo.cs
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ExercicioArrayList\obj\Debug\net6.0\ExercicioArrayList.csproj.CoreCompileInputs.cache
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ExercicioArrayList\obj\Debug\net6.0\ExercicioArrayList.dll
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ExercicioArrayList\obj\Debug\net6.0\refint\ExercicioArrayList.dll
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ExercicioArrayList\obj\Debug\net6.0\ExercicioArrayList.pdb
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ExercicioArrayList\obj\Debug\net6.0\ExercicioArrayList.genruntimeconfig.cache
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ExercicioArrayList\obj\Debug\net6.0\ref\ExercicioArrayList.dll

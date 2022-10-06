@@ -1,0 +1,15 @@
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ArrayList\bin\Debug\net6.0\ArrayList.exe
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ArrayList\bin\Debug\net6.0\ArrayList.deps.json
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ArrayList\bin\Debug\net6.0\ArrayList.runtimeconfig.json
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ArrayList\bin\Debug\net6.0\ArrayList.dll
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ArrayList\bin\Debug\net6.0\ArrayList.pdb
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ArrayList\obj\Debug\net6.0\ArrayList.csproj.AssemblyReference.cache
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ArrayList\obj\Debug\net6.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ArrayList\obj\Debug\net6.0\ArrayList.AssemblyInfoInputs.cache
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ArrayList\obj\Debug\net6.0\ArrayList.AssemblyInfo.cs
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ArrayList\obj\Debug\net6.0\ArrayList.csproj.CoreCompileInputs.cache
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ArrayList\obj\Debug\net6.0\ArrayList.dll
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ArrayList\obj\Debug\net6.0\refint\ArrayList.dll
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ArrayList\obj\Debug\net6.0\ArrayList.pdb
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ArrayList\obj\Debug\net6.0\ArrayList.genruntimeconfig.cache
+E:\faculdade\eixo_2\AlgoritmosEstruturaDeDados\ArrayList\ArrayList\obj\Debug\net6.0\ref\ArrayList.dll
